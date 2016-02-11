@@ -1,6 +1,10 @@
 /* font change*/
 main.container{
     font-family: "new century schoolbook";
+   
+}
+p{
+    font-size: 24px;
 }
 /* footer css*/
 .footer-distributed{
